@@ -14,7 +14,7 @@ Version: 1.0.0
   --white: #fff;
   --spantext: #757575;
   --theme: #ed2133;
-  --theme2: #ff7425;
+  --theme2: #ed2133;
   --bg1: #021622;
   --bg2: #021622;
   --bg3: #fff;
@@ -4265,7 +4265,7 @@ input.main-search-input::placeholder {
 }
 
 .team-staft-slidewrap011 {
-  background: #0e0e0e;
+  background: #021622;
 }
 .team-staft-slidewrap011 .comm .cmn-textslide {
   font-size: 55px !important;
